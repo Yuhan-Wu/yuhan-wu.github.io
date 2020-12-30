@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "About page"
+permalink: /
+---
+
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -16,13 +25,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuhan-Wu/yuhanwu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
 
-## About
+## Welcome to my home page!
 Yuhan Wu is a graduate student at University of Utah, majoring in Entertainment Arts and Engineering. With Software Engineering background. Yuhan is fueled by her passion for game development, including game design, gameplay development and game engine development. 
 
 Yuhan considers herself as a full-stack developer. She is familiar with both Unity and Unreal Engine and she's able to develop VR games and altctrl games. Besides, she's good at many different kinds of programming languages and software architectures.
