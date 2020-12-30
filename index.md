@@ -29,4 +29,4 @@ Yuhan considers herself as a full-stack developer. She is familiar with both Uni
 
 Her hunger for knowledge and determination to turn information into action has contributed to all of her games. She's always curious about new technology and would love to set foot in new fields. Her experience of working in large teams taught her the importance of teamwork and communication.
 
-[Resume](https://github.com/Yuhan-Wu/yuhan-wu.github.io/blob/gh-pages/Yuhan%20Wu.pdf)
+[Resume](https://yuhan-wu.github.io/Yuhan%20Wu.pdf)
