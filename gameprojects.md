@@ -28,6 +28,10 @@ Working on:
   Example:
 
   Some triggered events. Turning on the faucet to raise water level.
-  ![Rock Climbing](https://yuhan-wu.github.io/Pics/LT/faucet.gif)
+
+  ![Faucet](https://yuhan-wu.github.io/Pics/LT/faucet.gif)
   
 
+**Trailer:**
+
+[![LT Trailer](https://img.youtube.com/vi/AwbXoZMI-oU/0.jpg)](https://www.youtube.com/watch?v=AwbXoZMI-oU)
