@@ -2,7 +2,7 @@
 layout: default
 title: I Want You
 parent: Game Projects
-nav_order: 2
+nav_order: 3
 ---
 
 ### I Want You (01/2020 - 07/2020) - Lead Engineer
