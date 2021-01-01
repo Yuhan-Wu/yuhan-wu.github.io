@@ -13,7 +13,7 @@ Engine:		Unity
 
 Status:			Finished
 
-Project page: [View it on GitHub](https://github.com/Yuhan-Wu/RhythmPlatformer){: .btn .fs-5 .mb-4 .mb-md-0 }
+Project page: [View it on GitHub](https://github.com/Yuhan-Wu/RhythmPlatformer)
 
 Introduction:
 
