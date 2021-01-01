@@ -21,7 +21,7 @@ Work on:
 
 - Alt-ctrl
 
-  Uses the delta rotation between two vive trackers to compute wheelchair movement. Character movements are exactly the same as real-life wheelchair movements, such as slow start, turning around and the influence of friction.
+  Use the delta rotation between two vive trackers to compute wheelchair movement. Character movements are exactly the same as real-life wheelchair movements, such as slow start, turning around and the influence of friction.
 
 - AI
 
