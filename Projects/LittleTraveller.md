@@ -55,7 +55,7 @@ Work on:
 
   ![Faucet](https://yuhan-wu.github.io/Pics/LT/faucet.gif)
   
-  Moving light bulb. Implemented by using splines.
+  Moving light bulb. Using splines to draw a track.
   
   ![LightBulb](https://yuhan-wu.github.io/Pics/LT/transport.gif)
 
