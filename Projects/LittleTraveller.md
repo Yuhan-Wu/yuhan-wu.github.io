@@ -39,4 +39,4 @@ Work on:
 
 **Trailer:**
 
-  [![LT Trailer](https://img.youtube.com/vi/AwbXoZMI-oU/0.jpg)](https://www.youtube.com/watch?v=AwbXoZMI-oU)
+  [![LT Trailer](https://img.youtube.com/vi/bIudYs3PU4k/0.jpg)](https://www.youtube.com/watch?v=bIudYs3PU4k)
